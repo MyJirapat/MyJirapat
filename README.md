@@ -1,5 +1,4 @@
-# Jirapat Suwanjunee
-- 👋 Hi, I’m Jirapat Suwanjunee
+# - 👋 Hi, I’m My
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
