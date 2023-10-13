@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Jirapat Suwanjunee
 
+📫 How to reach me : Suwanjunee987@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyJirapat&layout=compact&hide=java&langs_count=10&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
