@@ -2,21 +2,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyJirapat&layout=compact&hide=java&langs_count=10&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/MyJirapat)
+
+
+### Interests
+---
+- Web application development
+- Software Testing
 
 <!---
 MyJirapat/MyJirapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-### Interests
-
----
-- Web application development
-- Software Testing
-
-<picture>
- <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/MyJirapat/MyJirapat/output/github-contribution-grid-snake.svg"
-  />
-</picture>
