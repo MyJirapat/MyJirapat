@@ -6,6 +6,9 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/MyJirapat)
 
+## GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MyJirapat&theme=dark&hide_border=false)
 
 ### Interests
 ---
